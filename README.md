@@ -23,9 +23,9 @@ class Developer {
             cout << " Currently focusing on learning full-stack development and improving my coding skills!" << endl;
         }
 
-        void funFact() {
-            cout << " Fun Fact: I’m passionate about traveling, and coding empowers me to work from anywhere — the world is my office!" << endl;
-        }
+    void funFact() {
+    cout << " Fun Fact: I dream of coding from a beach… but in reality, it’s just me debugging at 3 AM with the help of the coffee" << endl;
+}
 
 void philosophy() {
     cout << " // Life’s just a debugging session" << endl;
