@@ -10,7 +10,7 @@ on:
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Check contents of dist directory
-        run: ls -l dist
+        run: ls -la dist
 
       - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -34,4 +34,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
