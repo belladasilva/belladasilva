@@ -1,34 +1,43 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello,+world!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
- # Hi there! I'm Isabella Da Silva 
+ # I'm Isabella Da Silva :)
 
 ```cpp
 class Developer {
     public:
         string name = "Isabella Da Silva";
-        string profession = "Student - Computer Programming & Analysis";
-        string passion = "Coding, problem-solving, and technology";
+        string profession = "Full-Stack Developer | Computer Programming & Analysis Student";
+        string passion = "Coding, Travelling, and great food!!";
         
-        void skills() {
-            cout << "Languages: HTML/CSS, JavaScript, PHP, C++, C#, SQL, JAVA" << endl;
-            cout << "Frameworks/Technologies: Node.js, React.js, MySQL" << endl;
-            cout << "Tools: Git, JetBrains, VS Code, Linux" << endl;
+       void skills() {
+            cout << " Languages I Speak: HTML/CSS, JavaScript, PHP, C++, C#, SQL, Java" << endl;
+            cout << " Frameworks & Tools I Use: Node.js, React.js, MySQL, Git, JetBrains, VS Code, Linux" << endl;
+            cout << " Focused on building high-performance applications and mastering full-stack development!" << endl;
         }
 
         void currentFocus() {
-            cout << "Currently focusing on learning full-stack development and improving my coding skills!" << endl;
+            cout << " Currently focusing on learning full-stack development and improving my coding skills!" << endl;
         }
 
         void funFact() {
-            cout << "I love traveling, and coding allows me to work from anywhere!" << endl;
+            cout << " Fun Fact: I’m passionate about traveling, and coding empowers me to work from anywhere — the world is my office!" << endl;
         }
+
+void philosophy() {
+    cout << " // Life’s just a debugging session" << endl;
+    if (hardwork() && coffee() > 2) {
+        success();
+    } else {
+        struggle();
+    }
+}
+
 };
 ```
-
 
 #
 <img align="right" alt="" height="190px" src="./src/study.gif">
