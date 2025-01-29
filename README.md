@@ -25,7 +25,7 @@ class Developer {
 
     void funFact() {
     cout << " Fun Fact: I dream of coding from a beach… but in reality,
-             it’s just me debugging at 3 AM with the help of the coffee" << endl;
+              it’s just me debugging at 3 AM with the help of the coffee" << endl;
 }
 
 void philosophy() {
