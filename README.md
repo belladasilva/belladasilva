@@ -23,20 +23,19 @@ class Developer {
             cout << " Currently focusing on learning full-stack development and improving my coding skills!" << endl;
         }
 
-    void funFact() {
-    cout << " Fun Fact: I dream of coding from a beach… but in reality,
-              it’s just me debugging at 3AM with the help of coffee" << endl;
-}
+        void funFact() {
+            cout << " Fun Fact: I dream of coding from a beach...\n"
+            " but in reality, it’s just me debugging at 3AM with the help of coffee" << endl;
+       }
 
-void philosophy() {
-    cout << " // Life’s just a debugging session" << endl;
-    if (hardwork() && coffee() > 2) {
-        success();
-    } else {
-        struggle();
-    }
-}
-
+       void philosophy() {
+            cout << " // Life’s just a debugging session" << endl;
+            if (hardwork() && coffee() > 2) {
+                 success();
+            } else {
+                 struggle();
+            }
+       }
 };
 ```
 
