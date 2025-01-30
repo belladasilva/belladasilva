@@ -11,7 +11,7 @@ class Developer {
     public:
         string name = "Isabella Da Silva";
         string profession = "Full-Stack Developer | Computer Programming & Analysis Student";
-        string passion = "Coding, Travelling, and great food!!";
+        string passion = "Coding, Travelling, and great food!";
         
        void skills() {
             cout << " Languages I Speak: HTML/CSS, JavaScript, PHP, C++, C#, SQL, Java" << endl;
@@ -24,19 +24,20 @@ class Developer {
         }
 
         void funFact() {
-            cout << " Fun Fact: I dream of coding from a beach...\n"
+            cout << " Fun Fact: I dream of working from a beach..."
             " but in reality, it’s just me debugging at 3AM with the help of coffee" << endl;
        }
 
        void philosophy() {
-            cout << " // Life’s just a debugging session" << endl;
+            cout << " // Life’s philosopy" << endl;
             if (hardwork() && coffee() > 2) {
                  success();
             } else {
+            cout << " Time to make another cup of coffee" << endl;
                  struggle();
             }
        }
-};
+           // Yes, I am obsessed with coffee. No, I don’t plan on stopping. 
 ```
 
 #
