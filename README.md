@@ -20,7 +20,7 @@ class Developer {
         }
 
         void currentFocus() {
-            cout << " Currently focusing on learning full-stack development and improving my coding skills!" << endl;
+            cout << " Currently focusing on learning everything and improving my coding skills!" << endl;
         }
 
         void funFact() {
