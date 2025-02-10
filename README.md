@@ -11,16 +11,12 @@ class Developer {
     public:
         string name = "Isabella Da Silva";
         string profession = "Full-Stack Developer | Computer Programming & Analysis Student";
-        string passion = "Coding, Travelling, and great food!";
+        string passion = "Learning, travelling, and great food!";
         
        void skills() {
             cout << " Languages I Speak: HTML/CSS, JavaScript, PHP, C++, C#, SQL, Java" << endl;
             cout << " Frameworks & Tools I Use: Node.js, React.js, MySQL, Git, JetBrains, VS Code, Linux" << endl;
-            cout << " Focused on building high-performance applications and mastering full-stack development!" << endl;
-        }
-
-        void currentFocus() {
-            cout << " Currently focusing on learning everything and improving my coding skills!" << endl;
+            cout << " Focused on building high-performance applications and improving my coding skills" << endl;
         }
 
         void funFact() {
