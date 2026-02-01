@@ -72,8 +72,3 @@ class Developer {
 </div>
 
 #
-
-![GitHub Streak](https://streak-stats.demolab.com?user=belladasilva&theme=dark&background=000000&ring=FF00F6&fire=FF00F6&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B8B8B&dates=8B8B8B)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=belladasilva&bg_color=000000&color=FFFFFF&line=FF00F6&point=FF00F6&area=true&hide_border=true)
-
