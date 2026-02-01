@@ -73,8 +73,7 @@ class Developer {
 
 #
 
-<div align="center">
-  <h3>GitHub Stats</h3>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=belladasilva&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&icon_color=FF00F6&border_color=561760&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belladasilva&layout=compact&langs_count=6&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_color=561760&hide=html,scss,less&cache_seconds=86400" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=belladasilva&theme=dark&background=000000&ring=FF00F6&fire=FF00F6&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B8B8B&dates=8B8B8B)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=belladasilva&bg_color=000000&color=FFFFFF&line=FF00F6&point=FF00F6&area=true&hide_border=true)
+
