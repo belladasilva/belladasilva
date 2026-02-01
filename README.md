@@ -73,12 +73,8 @@ class Developer {
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=belladasilva&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/belladasilva/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=belladasilva&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=belladasilva&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&icon_color=FF00F6&border_color=561760" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belladasilva&layout=compact&langs_count=6&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_color=561760&hide=html,scss,less" />
 </div>
