@@ -75,6 +75,6 @@ class Developer {
 
 <div align="center">
   <h3>GitHub Stats</h3>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=belladasilva&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&icon_color=FF00F6&border_color=561760" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belladasilva&layout=compact&langs_count=6&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_color=561760&hide=html,scss,less" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=belladasilva&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&icon_color=FF00F6&border_color=561760&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belladasilva&layout=compact&langs_count=6&theme=jolly&bg_color=000000&title_color=FF00F6&text_color=8B8B8B&border_color=561760&hide=html,scss,less&cache_seconds=86400" />
 </div>
