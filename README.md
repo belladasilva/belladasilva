@@ -36,13 +36,13 @@ class Developer {
            // Yes, I am obsessed with coffee. No, I don’t plan on stopping. 
 ```
 
-#
+---
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isachristina429@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/belladasilva/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:isachristina429@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/belladasilva/)
 
 
 
@@ -71,4 +71,5 @@ class Developer {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="Unity logo" />
 </div>
 
-#
+---
+
