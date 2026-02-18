@@ -73,3 +73,8 @@ class Developer {
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/belladasilva/belladasilva/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
