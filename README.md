@@ -10,30 +10,33 @@
 class Developer {
     public:
         string name = "Isabella Da Silva";
-        string profession = "Full-Stack Developer | Computer Programming & Analysis Student";
+        string role = "Software Developer";
         string passion = "Learning, travelling, and great food!";
-        
-       void skills() {
-            cout << " Languages I Speak: HTML/CSS, JavaScript, PHP, C++, C#, SQL, Java" << endl;
-            cout << " Frameworks & Tools I Use: Node.js, React.js, MySQL, Git, JetBrains, VS Code, Linux" << endl;
-            cout << " Focused on building high-performance applications and improving my coding skills" << endl;
+
+        void skills() {
+            cout << "Languages I Work With: Java, JavaScript, PHP, C++, C#, SQL" << endl;
+            cout << "Frameworks & Tools I Use: Node.js, React.js, MySQL, Git, IntelliJ IDEA, VS Code, Linux" << endl;
+            cout << "Currently expanding my experience with Java, Spring Boot and Angular" << endl;
         }
 
         void funFact() {
-            cout << " Fun Fact: I dream of working from a beach..."
-            " but in reality, it’s just me debugging at 3AM with the help of coffee" << endl;
-       }
+            cout << "Fun Fact: I dream of working from a beach..."
+                 << " but in reality, it's usually me debugging at 3AM with coffee nearby." << endl;
+        }
 
-       void philosophy() {
-            cout << " // Life’s philosopy" << endl;
+        void philosophy() {
+            cout << "// Life's philosophy" << endl;
+
             if (hardwork() && coffee() > 2) {
-                 success();
+                success();
             } else {
-            cout << " Time to make another cup of coffee" << endl;
-                 struggle();
+                cout << "Time to make another cup of coffee" << endl;
+                struggle();
             }
-       }
-           // Yes, I am obsessed with coffee. No, I don’t plan on stopping. 
+        }
+
+        // Yes, I am obsessed with coffee. No, I don't plan on stopping.
+}; 
 ```
 
 ---
@@ -47,28 +50,33 @@ class Developer {
 
 
 <h3 align="left">My Stack ~</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="TypeScript" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="PHP logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" alt="Angular" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="PHP" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
-   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="Unity logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C#" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="SQLite" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="MongoDB" />
 </div>
 
 ---
