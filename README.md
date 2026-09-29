@@ -10,7 +10,7 @@
 class Developer {
     public:
         string name = "Isabella Da Silva";
-        string role = "Software Developer";
+        string role = "Software Engineer";
         string passion = "Learning, travelling, and great food!";
 
         void skills() {
